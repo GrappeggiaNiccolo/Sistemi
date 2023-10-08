@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Conversioni",
+    "\\Conversioni\\Conversioni"
   ],
-  "SelectedNode": "\\C:\\Users\\Niccolò\\Desktop\\Sistemi",
+  "SelectedNode": "\\Conversioni\\Conversioni\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
